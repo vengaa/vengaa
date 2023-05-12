@@ -16,7 +16,7 @@
   </a>
   
 ![Venga GitHub stats](https://github-readme-stats.vercel.app/api?username=vengaa&show_icons=true&theme=radical)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
 
 <div align="center" valign="top"><br>
