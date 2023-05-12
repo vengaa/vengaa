@@ -12,8 +12,11 @@
 </div>
 <div align="center">
   <a href="https://github.com/vengaa">
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+
   </a>
+  
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 <div align="center" valign="top"><br>
