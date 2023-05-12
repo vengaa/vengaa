@@ -15,7 +15,7 @@
 
   </a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vengaa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Venga GitHub stats](https://github-readme-stats.vercel.app/api?username=vengaa&show_icons=true&theme=radical)
   
 </div>
 
