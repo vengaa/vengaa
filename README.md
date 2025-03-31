@@ -59,23 +59,23 @@
   </div>
 </div>
 
-<!-- Projects -->
-## 🚀 Projetos Destacados
+<!-- Projetos Destacados -->
+<div align="center">
+  <h2>🚀 Projetos Destacados</h2>
 
-### 📧 Email Microservice
-Microsserviço completo para envio de e-mails com templates HTML e suporte a SMTP.
-
-**Tecnologias:** Java, Spring Boot, Docker
-
-🔗 [Ver Projeto](https://github.com/vengaa/email-microservice)
+  <h3>📧 Email Microservice</h3>
+  <p>Microsserviço completo para envio de e-mails com templates HTML e suporte a SMTP.</p>
+  <p><b>Tecnologias:</b> Java, Spring Boot, Docker</p>
+  <a href="https://github.com/vengaa/email-microservice">
+    <img src="https://img.shields.io/badge/🔗 Ver%20Projeto-7E3ACE?style=for-the-badge"/>
+  </a>
+</div>
 
 <!-- Contact -->
 <div align="center">
   <h2>📫 Vamos conversar!</h2>
   
-  <p>
-    Adoro colaborar em projetos interessantes e conhecer outros desenvolvedores.
-  </p>
+  <p>Adoro colaborar em projetos interessantes e conhecer outros desenvolvedores.</p>
   
   <div>
     <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
